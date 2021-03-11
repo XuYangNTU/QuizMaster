@@ -1,0 +1,359 @@
+ID,Primary,Question,A,B,C,D,Answer,Category,Difficulty,MCQ
+1,P1,9 ones is the same as ____.,7,3,9,5,C,Numbers,-3,Yes
+2,P1,5 ones is the same as ____.,5,6,7,4,A,Numbers,-3,Yes
+3,P1,8 is the same as ____ ones.,5,8,7,6,B,Numbers,-3,Yes
+4,P1,4 is the same as ____ ones,3,2,4,5,C,Numbers,-3,Yes
+5,P1,____ tens is the same as 30.,1,2,3,4,C,Numbers,-3,Yes
+6,P1,____ tens is the same as 70.,4,5,6,7,D,Numbers,-3,Yes
+7,P1,20 is the same as ____ tens.,1,2,3,4,B,Numbers,-3,Yes
+8,P1,60 is the same as ____ tens.,4,5,6,7,C,Numbers,-3,Yes
+9,P1,Thirty in numeral.,20,30,40,50,B,Numbers,-3,Yes
+10,P1,Twenty-five in numeral.,5,15,25,35,C,Numbers,-3,Yes
+11,P1,Eighty-nine in numeral.,68,79,89,98,C,Numbers,-3,Yes
+12,P1,Twelve in numeral.,10,14,17,12,D,Numbers,-3,Yes
+13,P1,Select the largest number.,17,16,13,19,D,Numbers,-3,Yes
+14,P1,Select the largest number.,38,32,34,35,A,Numbers,-3,Yes
+15,P1,Select the largest number.,23,58,13,49,B,Numbers,-3,Yes
+16,P1,Select the largest number.,5,8,3,7,B,Numbers,-3,Yes
+17,P1,Select the smallest number.,48,40,45,43,B,Numbers,-3,Yes
+18,P1,Select the smallest number.,63,78,90,83,A,Numbers,-3,Yes
+19,P1,Select the smallest number.,45,28,93,12,D,Numbers,-3,Yes
+20,P1,Select the smallest number.,11,8,9,2,D,Numbers,-3,Yes
+21,P1,16 comes before ____.,16,15,13,17,D,Numbers,-2.333333333,Yes
+22,P1,34 comes before ____.,24,35,30,33,B,Numbers,-2.333333333,Yes
+23,P1,____ comes after 89.,87,88,89,90,D,Numbers,-2.333333333,Yes
+24,P1,____ comes after 13.,14,12,11,10,A,Numbers,-2.333333333,Yes
+25,P1,____ comes between 77 and 79.,73,71,78,80,C,Numbers,-2.333333333,Yes
+26,P1,____ comes between 9 and 11.,8,12,10,13,C,Numbers,-2.333333333,Yes
+27,P1,56 is between 55 and ____.,54,57,58,56,B,Numbers,-2.333333333,Yes
+28,P1,31 is between 30 and ____.,29,32,38,34,B,Numbers,-2.333333333,Yes
+29,P1,98 is between ____ and 99.,95,98,96,97,D,Numbers,-2.333333333,Yes
+30,P1,6 is between ____ and 7.,8,2,5,4,C,Numbers,-2.333333333,Yes
+31,P1,5 more than 11 is ____.,15,16,6,7,B,Numbers,-2.333333333,Yes
+32,P1,20 more than 10 is ____.,10,20,30,40,C,Numbers,-2.333333333,Yes
+33,P1,8 less than 40 is ____.,48,49,32,33,C,Numbers,-2.333333333,Yes
+34,P1,3 less than 90 is ____.,93,99,87,88,C,Numbers,-2.333333333,Yes
+35,P1,____ more than 67 is 75.,5,8,7,4,B,Numbers,-2.333333333,Yes
+36,P1,____ more than 11 is 17.,8,7,6,5,C,Numbers,-2.333333333,Yes
+37,P1,____ less than 8 is 5.,8,4,3,6,C,Numbers,-2.333333333,Yes
+38,P1,____ less than 100 is 80.,30,40,20,90,C,Numbers,-2.333333333,Yes
+39,P1,25 is ____ more than 21.,2,3,4,5,C,Numbers,-2.333333333,Yes
+40,P1,71 is ____ less than 80.,6,7,8,9,D,Numbers,-2.333333333,Yes
+41,P2,4 hundreds and 5 ones is written as ____.,450,405,451,45,B,Numbers,-2.333333333,Yes
+42,P2,2 hundreds and 9 tens is written as ____.,29,209,290,219,C,Numbers,-2.333333333,Yes
+43,P2,The digit 5 in 589 stands for ____.,5,50,500,5000,C,Numbers,-2.333333333,Yes
+44,P2,The digit 8 in 381 stands for ____.,8,80,800,8000,B,Numbers,-2.333333333,Yes
+45,P2,One hundred and eighty in numeral.,18,108,180,810,C,Numbers,-2.333333333,Yes
+46,P2,Nine hundreds and thirty five in numeral.,953,539,395,935,D,Numbers,-2.333333333,Yes
+47,P2,Five hundreds and forty three in numeral.,435,543,534,354,B,Numbers,-2.333333333,Yes
+48,P2,Select the largest number.,170,169,145,132,A,Numbers,-2.333333333,Yes
+49,P2,Select the largest number.,598,783,499,550,B,Numbers,-2.333333333,Yes
+50,P2,Select the largest number.,647,621,687,694,D,Numbers,-2.333333333,Yes
+51,P2,Select the largest number.,321,947,685,450,B,Numbers,-2.333333333,Yes
+52,P2,Select the smallest number.,101,198,184,140,A,Numbers,-2.333333333,Yes
+53,P2,Select the smallest number.,550,345,896,777,B,Numbers,-2.333333333,Yes
+54,P2,Select the smallest number.,896,854,822,870,C,Numbers,-2.333333333,Yes
+55,P2,Select the smallest number.,999,450,672,109,D,Numbers,-2.333333333,Yes
+56,P2,489 comes before ____.,470,480,490,460,C,Numbers,-1.666666667,Yes
+57,P2,____ comes after 767.,678,778,768,786,C,Numbers,-1.666666667,Yes
+58,P2,____ comes between 834 and 836.,830,835,837,833,B,Numbers,-1.666666667,Yes
+59,P2,434 is between 433 and ____.,430,435,432,431,B,Numbers,-1.666666667,Yes
+60,P2,789 is between ____ and 790.,787,789,791,788,D,Numbers,-1.666666667,Yes
+61,P2,15 more than 100 is ____.,105,115,125,100,B,Numbers,-1.666666667,Yes
+62,P2,200 more than 700 is ____.,200,500,700,900,D,Numbers,-1.666666667,Yes
+63,P2,10 less than 550 is ____.,550,540,530,520,B,Numbers,-1.666666667,Yes
+64,P2,150 less than 200 is ____.,200,150,100,50,D,Numbers,-1.666666667,Yes
+65,P2,____ more than 250 is 500.,100,150,200,250,D,Numbers,-1.666666667,Yes
+66,P2,____ more than 400 is 900.,400,500,300,200,B,Numbers,-1.666666667,Yes
+67,P2,____ less than 1000 is 300.,1000,900,800,700,D,Numbers,-1.666666667,Yes
+68,P2,____ less than 350 is 50.,300,400,500,600,A,Numbers,-1.666666667,Yes
+69,P2,534 is ____ more than 500.,134,34,234,534,B,Numbers,-1.666666667,Yes
+70,P2,200 is ____ less than 800.,300,400,500,600,D,Numbers,-1.666666667,Yes
+71,P1,7 + 9 = ____,12,14,16,15,C,Addition,-1,Yes
+72,P1,28 + 12 = ____,30,50,40,60,C,Addition,-1,Yes
+73,P1,38 + 6 = ____,44,34,42,58,A,Addition,-1,Yes
+74,P1,8 + 3 = ____,9,12,11,10,C,Addition,-1,Yes
+75,P1,56 + 34 = ____,80,89,90,93,C,Addition,-1,Yes
+76,P1,5 + 9 = ____,12,13,14,15,C,Addition,-1,Yes
+77,P1,____ + 70 = 79,6,7,8,9,D,Addition,-1,Yes
+78,P1,____ + 5 = 67,45,56,62,74,C,Addition,-1,Yes
+79,P1,88 + ____ = 95,4,9,7,2,C,Addition,-1,Yes
+80,P1,81 + ____ = 100,23,19,21,18,B,Addition,-1,Yes
+81,P1,9 - 3 = ____,4,10,6,12,C,Subtraction,-1,Yes
+82,P1,34 - 11 = ____,33,23,45,25,B,Subtraction,-1,Yes
+83,P1,50 - 9 = ____,52,49,43,41,D,Subtraction,-1,Yes
+84,P1,78 - 13 = ____,55,75,65,85,C,Subtraction,-1,Yes
+85,P1,90 - 30 = ____,50,40,70,60,D,Subtraction,-1,Yes
+86,P1,12 - 8 = ____,7,5,4,8,C,Subtraction,-1,Yes
+87,P1,____ - 5 = 40,35,45,55,65,B,Subtraction,-1,Yes
+88,P1,____ - 34 = 60,84,76,65,94,D,Subtraction,-1,Yes
+89,P1,100 - ____ = 77,33,23,43,13,B,Subtraction,-1,Yes
+90,P1,19 - ____ = 5,11,12,13,14,D,Subtraction,-1,Yes
+91,P1,11 + 11 + 11 = ____,22,33,44,55,B,Addition,-0.3333333333,Yes
+92,P1,19 + 5 + 1 = ____,23,35,28,25,D,Addition,-0.3333333333,Yes
+93,P1,45 + 12 + 3 = ____,50,65,55,60,D,Addition,-0.3333333333,Yes
+94,P1,76 + 20 + 14 = ____,70,86,94,100,D,Addition,-0.3333333333,Yes
+95,P1,9 + 5 + 6 = ____,18,17,20,19,C,Addition,-0.3333333333,Yes
+96,P1,30 - 6 - 3 = ____,18,20,21,19,C,Subtraction,-0.3333333333,Yes
+97,P1,88 - 10 - 8 = ____,60,82,70,91,C,Subtraction,-0.3333333333,Yes
+98,P1,75 - 5 - 1 = ____,70,65,71,69,D,Subtraction,-0.3333333333,Yes
+99,P1,6 - 4 - 2 = ____,2,3,0,1,C,Subtraction,-0.3333333333,Yes
+100,P1,100 - 75 - 13 = ____,23,12,45,37,B,Subtraction,-0.3333333333,Yes
+101,P1,16 + 4 - 5 = ____,25,15,7,17,B,Mix,-0.3333333333,Yes
+102,P1,40 + 25 - 6 = ____,59,9,71,21,A,Mix,-0.3333333333,Yes
+103,P1,56 + 44 - 10 = ____,2,78,22,90,D,Mix,-0.3333333333,Yes
+104,P1,89 + 6 - 13 = ____,82,100,70,96,A,Mix,-0.3333333333,Yes
+105,P1,9 - 1 + 9 = ____,0,17,19,1,B,Mix,-0.3333333333,Yes
+106,P1,78 - 12 + 11 = ____,100,77,79,55,B,Mix,-0.3333333333,Yes
+107,P1,90 - 34 + 6 ____,66,58,50,62,D,Mix,-0.3333333333,Yes
+108,P1,22 - 18 + 22 = ____,26,18,62,34,A,Mix,-0.3333333333,Yes
+109,P1,12 - 6 + 6 = ____,6,12,24,0,B,Mix,-0.3333333333,Yes
+110,P1,74 - 16 + 4 = ____,62,54,94,86,A,Mix,-0.3333333333,Yes
+111,P2,250 + 50 = ____,200,250,300,350,C,Addition,-0.3333333333,Yes
+112,P2,845 + 15 = ____,840,860,855,865,B,Addition,-0.3333333333,Yes
+113,P2,340 + 39 = ____,379,369,349,359,A,Addition,-0.3333333333,Yes
+114,P2,____ + 45 = 590,555,535,540,545,D,Addition,-0.3333333333,Yes
+115,P2,250 + ____ = 500,220,230,240,250,D,Addition,-0.3333333333,Yes
+116,P2,450 - 50 = ____,300,400,350,500,B,Subtraction,-0.3333333333,Yes
+117,P2,150 - 150 = ____,100,50,150,0,D,Subtraction,-0.3333333333,Yes
+118,P2,999 - 777 = ____,111,221,133,222,D,Subtraction,-0.3333333333,Yes
+119,P2,____ - 200 = 688,788,888,588,988,B,Subtraction,-0.3333333333,Yes
+120,P2,678 - ____ = 628,35,45,50,55,C,Subtraction,-0.3333333333,Yes
+121,P2,500 + 40 + 3 = ____,543,453,345,534,A,Addition,0.3333333333,Yes
+122,P2,400 + 400 + 4 = ____,840,408,804,84,C,Addition,0.3333333333,Yes
+123,P2,735 + 100 + 25 = ____,760,855,755,860,D,Addition,0.3333333333,Yes
+124,P2,987 = 900 + ____ + 7,800,80,8,0,B,Addition,0.3333333333,Yes
+125,P2,450 = ____ + 100 + 50,200,250,300,350,C,Addition,0.3333333333,Yes
+126,P2,500 - 200 - 50 = ____,300,150,200,250,D,Subtraction,0.3333333333,Yes
+127,P2,555 - 50 - 5 = ____,450,505,500,550,C,Subtraction,0.3333333333,Yes
+128,P2,438 - 30 - 3 = ____,405,400,430,450,A,Subtraction,0.3333333333,Yes
+129,P2,500 - ____ - 50 = 350,50,100,150,200,B,Subtraction,0.3333333333,Yes
+130,P2,888 - ____ - 8 = 700,100,80,180,88,C,Subtraction,0.3333333333,Yes
+131,P2,350 + 50 - 5 = ____,405,305,395,385,C,Mix,0.3333333333,Yes
+132,P2,125 + 125 - 50 = ____,250,200,300,150,B,Mix,0.3333333333,Yes
+133,P2,800 + 200 - 100 = ____,1000,700,800,900,D,Mix,0.3333333333,Yes
+134,P2,600 + 300 - 25 = ____,825,875,850,855,B,Mix,0.3333333333,Yes
+135,P2,450 + 350 - 150 = ____,550,850,650,750,C,Mix,0.3333333333,Yes
+136,P2,500 - 200 + 50 = ____,350,750,250,650,A,Mix,0.3333333333,Yes
+137,P2,655 - 50 + 5 = ____,600,710,695,610,D,Mix,0.3333333333,Yes
+138,P2,728 - 220 + 2 = ____,510,950,506,946,A,Mix,0.3333333333,Yes
+139,P2,1000 - 500 + 500 = ____,1000,500,0,250,A,Mix,0.3333333333,Yes
+140,P2,855 - 400 + 5 = ____,450,900,455,460,D,Mix,0.3333333333,Yes
+141,P1,2 groups of 4 = ____,4,8,2,6,B,Multiplication,1,Yes
+142,P1,5 groups of 3 = ____,10,20,15,5,C,Multiplication,1,Yes
+143,P1,8 groups of 5 = ____,40,30,50,20,A,Multiplication,1,Yes
+144,P1,2 fives = ____,20,5,2,10,D,Multiplication,1,Yes
+145,P1,4 threes = ____,4,12,15,3,B,Multiplication,1,Yes
+146,P1,6 fours = ____,4,10,6,24,D,Multiplication,1,Yes
+147,P1,7 x 3 = ____,21,7,10,3,A,Multiplication,1,Yes
+148,P1,9 x 4 = ____,9,36,4,13,B,Multiplication,1,Yes
+149,P1,5 x 5 = ____,10,20,25,15,C,Multiplication,1,Yes
+150,P1,10 x 7 = ____,80,70,60,50,B,Multiplication,1,Yes
+151,P1,10 ÷ 2 = ____,5,10,2,12,A,Division,1.666666667,Yes
+152,P1,8 ÷ 4 = ____,8,2,12,4,B,Division,1.666666667,Yes
+153,P1,9 ÷ 3 = ____,9,3,12,6,B,Division,1.666666667,Yes
+154,P1,12 ÷ 3 = ____,4,12,3,9,A,Division,1.666666667,Yes
+155,P1,20 ÷ 5 = ____,20,4,10,5,B,Division,1.666666667,Yes
+156,P1,20 ÷ 2 = ____,2,20,5,10,D,Division,1.666666667,Yes
+157,P1,5 ÷ 5 = ____,10,0,1,5,C,Division,1.666666667,Yes
+158,P1,16 ÷ 4 = ____,4,16,8,3,A,Division,1.666666667,Yes
+159,P1,18 ÷ 6 = ____,12,18,6,3,D,Division,1.666666667,Yes
+160,P1,7 ÷ 1 = ____,1,3,5,7,D,Division,1.666666667,Yes
+161,P2,multiplying 3 by 5 = ____,10,5,15,3,C,Multiplication,1.666666667,Yes
+162,P2,multiplying 4 by 10 = ____,4,10,40,20,C,Multiplication,1.666666667,Yes
+163,P2,multiplying 2 by 4 = ____,2,4,6,8,D,Multiplication,1.666666667,Yes
+164,P2,multiplying 5 by 6 = ____,10,20,30,40,C,Multiplication,1.666666667,Yes
+165,P2,multiplying 10 by 10 = ____,10,100,20,1000,B,Multiplication,1.666666667,Yes
+166,P2,2 x 3 = ____,2,3,5,6,D,Multiplication,1.666666667,Yes
+167,P2,2 x 8 = ____,8,2,10,16,D,Multiplication,1.666666667,Yes
+168,P2,3 x 4 = ____,7,4,3,12,D,Multiplication,1.666666667,Yes
+169,P2,3 x 3 = ____,6,9,3,12,B,Multiplication,1.666666667,Yes
+170,P2,4 x 7 = ____,22,26,28,20,C,Multiplication,1.666666667,Yes
+171,P2,4 x 5 = ____,20,25,24,16,A,Multiplication,1.666666667,Yes
+172,P2,5 x 5 = ____,5,10,20,25,D,Multiplication,1.666666667,Yes
+173,P2,5 x 9 = ____,30,35,40,45,D,Multiplication,1.666666667,Yes
+174,P2,10 x 8 = ____,80,70,60,50,A,Multiplication,1.666666667,Yes
+175,P2,10 x 3 = ____,20,40,30,50,C,Multiplication,1.666666667,Yes
+176,P2,12 ÷ 2 = ____,8,6,12,10,B,Division,2.333333333,Yes
+177,P2,2 ÷ 2 = ____,1,2,3,4,A,Division,2.333333333,Yes
+178,P2,18 ÷ 2 = ____,5,20,9,8,C,Division,2.333333333,Yes
+179,P2,21 ÷ 3 = ____,3,7,6,5,B,Division,2.333333333,Yes
+180,P2,15 ÷ 3 = ____,10,15,5,3,C,Division,2.333333333,Yes
+181,P2,18 ÷ 3 = ____,3,4,5,6,D,Division,2.333333333,Yes
+182,P2,20 ÷ 4 = ____,6,4,5,7,C,Division,2.333333333,Yes
+183,P2,36 ÷ 4 = ____,8,7,6,9,D,Division,2.333333333,Yes
+184,P2,40 ÷ 4 = ____,4,10,5,8,B,Division,2.333333333,Yes
+185,P2,15 ÷ 5 = ____,1,2,3,4,C,Division,2.333333333,Yes
+186,P2,25 ÷ 5 = ____,25,10,5,4,C,Division,2.333333333,Yes
+187,P2,40 ÷ 5 = ____,7,9,6,8,D,Division,2.333333333,Yes
+188,P2,50 ÷ 10 = ____,1,3,5,7,C,Division,2.333333333,Yes
+189,P2,100 ÷ 10 = ____,6,8,9,10,D,Division,2.333333333,Yes
+190,P2,70 ÷ 10 = ____,6,7,8,9,B,Division,2.333333333,Yes
+191,P2,3 units out of 1/5 is ____.,1/5,2/5,3/5,4/5,C,Fractions,3,Yes
+192,P2,2 units out of 1/4 is ____.,1/4,2/4,3/4,4/4,B,Fractions,3,Yes
+193,P2,2 units out of 1/3 is ____.,1/2,1/3,2/3,2/4,C,Fractions,3,Yes
+194,P2,Select the largest number.,1/2,1/3,1/7,1/5,A,Fractions,3,Yes
+195,P2,Select the smallest number.,1/3,1/5,1/6,1/8,D,Fractions,3,Yes
+196,P2,1/4 + 1/4 = ____,1/2,1/3,1/4,1/5,A,Fractions,3,Yes
+197,P2,1/6 + 3/6 = ____,1/6,2/6,3/6,4/6,D,Fractions,3,Yes
+198,P2,1/2 + 1/4 = ____,1/2,2/4,3/4,2/3,C,Fractions,3,Yes
+199,P2,2/7 - 1/7 = ____,1/7,2/7,3/7,4/7,A,Fractions,3,Yes
+200,P2,3/4 - 1/4 = ____,1/4,1/2,1/3,1/5,B,Fractions,3,Yes
+201,P6,Simplify 5a - 10 - 2a + 15.,3a - 5,3a + 5,7a - 5,7a + 5,A,Number & Algebra,-3,Yes
+202,P6,4 : 7 = 32 : ?,42,49,56,63,C,Number & Algebra,-3,Yes
+203,P6,Express 2 3/8 as a decimal.,2.3,2.38,2.125,2.375,D,Number & Algebra,-3,Yes
+204,P6,Glenn bought a pizza. He ate 1/4 of the pizza and the remaining pizza was shared equally between his 2 friends. What fraction did each of his friend get?,1/8,1/2,3/8,3/4,B,Number & Algebra,-3,Yes
+205,P6,Calvin and Susie baked some cookies in the ration of 3:7. Calvin baked 60 fewer cookies than Susie. How many cookies did they bake altogether?,45,105,150,200,C,Number & Algebra,-3,Yes
+206,P6,Alex and Brian have some toy soldiers. Bryan had 30% of the toy soldiers and Alex has 84 toy soldiers. How many toy soldiers does Bryan have?,12,28,36,120,C,Number & Algebra,-3,Yes
+207,P6,What is the value of (5n + 13) / 4 when n = 11?,17,-,-,-,A,Number & Algebra,-0.33,No
+208,P6,Sally spends 1/3 of her weekly allowance on lunch and 3/4 of the remainder on books. She has $8 left. What is her weekly allowance?,48,-,-,-,A,Number & Algebra,-0.33,No
+209,P6,Find the value of 72 + 8 x 4 -20 ÷ 5.,100,-,-,-,A,Number & Algebra,-0.33,No
+210,P6,2/5 of Henry's mass is equal to 3/4 of Ian's mass. Express Henry's mass as a fraction of the total mass of both boys.,15/23,-,-,-,A,Number & Algebra,-0.33,No
+211,P6,"Alex, Brendan and Carl saved money in the ratio of 3 : 5 : 7. The difference between the largest amount and the smallest amount is $52. What is the amount that Brendan saved?",65,-,-,-,A,Number & Algebra,-0.33,No
+212,P6,A factory produce 320 soft toys. 60% of them are teddy bears. 25% of the teddy bears are pink. How many pink teddy bears does the factory produce?,48,-,-,-,A,Number & Algebra,-0.33,No
+213,P6,"Mrs Tan backed 3w cupcakes in the morning. She baked 3w + 8 cupcakes in the afternoon. Altogether, she baked 80 cupcakes that day. How many cupcakes did she bake in the morning?",36,-,-,-,A,Number & Algebra,-0.33,No
+214,P6,Tom has some $2 and $5 notes. He has twice as many $2 notes as $5 notes. He has $504 altogether. How many $2 notes does he have?,112,-,-,-,A,Number & Algebra,3,No
+215,P6,"Calvin and Susie had some game cards at first. Calvin gave 1/4 of his cards to Susie. After that, Susie gave 1/5 of her cards to Calvin. In the end, Calvin had 45 cards and Susie had 36 cards. How many cards did Calvin have at first?",48,-,-,-,A,Number & Algebra,3,No
+216,P6,A fruit seller put some apples and oranges into Box A and Box B. The ratio of the number of fruits in Box A to the number of fruits in Box B is 8 : 5. The ratio of the number of apples to the number of oranges in Box A is 1 : 3. 7/10 of the fruits in Box B are apples and there are 72 oranges in Box A. Find the number of oranges in Box B.,18,-,-,-,A,Number & Algebra,3,No
+217,P6,"In a shop, rulers are sold only in packs. A pack of 6 long rulers costs $8 and a pack of 4 short rulers cost $3. (a) Justin bought an equal number of short and long rulers. He spent $126 more on the long rulers. How many long rulers did he buy? (b) Mabel spent an equal amount of money on the long and short rulers. What fraction of the rulers she bought were short?",216,16/25,-,-,A&B,Number & Algebra,3,No
+218,P6,Samy and Tim had some money. Samy had 4/5 of what Tim had. They had lunch together at a restaurant and shared the cost of the meal. Tim paid 5/7 of the cost of the meal and had $10 left. Samy used 1/3 of his money to pay for his share. How much did the meal cost?,28,-,-,-,A,Number & Algebra,3,No
+219,P6,Azura has 473 marbles and Lillian has 259 marbles. How many marbles must Azura give to Lillian such that both of them will have the same number of marbles?,107,-,-,-,A,Number & Algebra,-3,No
+220,P6,Simplify (7x + 4 - 3x) + 6 ÷ 2.,4x + 7,-,-,-,A,Number & Algebra,-3,No
+221,P6,"The average English score of a group of 12 pupils was 78. When 3 pupils left the group, the average score of the remaining pupils became 82. What was the total English score of the 3 pupils who left?",198,-,-,-,A,Number & Algebra,-0.33,No
+222,P6,"The total mass of Alvin, Brian and Calvin is (4n + 9) kg. The mass of Alvin is 2n kg and the mass of Brian is half of Alvin's. (a) What is the mass of Calvin? Give your answer in terms of n. (b) Given n = 35, what is the mass of Calvin?",n + 9,44,-,-,A&B,Number & Algebra,-0.33,No
+223,P6,Samuel baked some muffins. He sold 1/3 of them in the morning and 4/9 of them in the afternoon. He had 36 muffins left. How many muffins did Samuel bake?,162,-,-,-,A,Number & Algebra,-0.33,No
+224,P6,The ratio of the number of twenty-cent coins to the number of one-dollar coins in a box is 9 : 5. There are 104 more twenty-cent coins than one-dollar coins. What is the difference between the vlaue of the twenty-cent coins and the one-dollar coins?,83.2,-,-,-,A,Number & Algebra,-0.33,No
+225,P6,Nuts were sold at $8 per kilogram. Mrs. Ho spent some money to buy some nuts. She gave 2 1/2 kg of nuts to her neighbours and 1/5 of the remainder to her son. She gave the rest of the nuts equally to her 3 daughters. Each daughter received 1kg of nuts. How much did Mrs. Ho spend to buy the nuts?,50,-,-,-,A,Number & Algebra,3,No
+226,P6,Simplify 14a + 8 - 5a - 7.,9a + 1,9a - 1,19a + 1,19a - 1,A,Number & Algebra,-3,Yes
+227,P6,Find the missing number in 4800 ÷ 3 = 16 x ?.,10 000,1000,100,10,C,Number & Algebra,-3,Yes
+228,P6,Russell had 9/10 ℓ of water. He drank 3/5 ℓ of the water. How much water did he have left?,15/10 ℓ,14/10 ℓ,4/5 ℓ,3/10 ℓ,D,Measurement & Geometry,-3,Yes
+229,P6,Rita had 5/8 kg of cookies. She gave away 1/3 of it to her friends. How many kilograms of cookies did she give away to her friends?,8/15,5/24,7/24,23/24,B,Number & Algebra,-3,Yes
+230,P6,Mrs Ang had 3/4 ℓ of milk. She poured all the milk equally into 8 identical bottles. How many titres of milk did she pour into each bottle?,1/10,5/32,6 2/5,10,A,Number & Algebra,-3,Yes
+231,P6,Express 48 m 5 cm in cm.,485 cm,4805 cm,4850 cm,48 005 cm,B,Measurement & Geometry,-3,Yes
+232,P6,Find the value of 30.36 ÷ 60.,5.06,0.56,0.505,0.056,C,Number & Algebra,-3,Yes
+233,P6,There are 80 oranges in a box. 24 of them are rotten. What percentage of the oranges in the box are rotten?,24%,30%,70%,76%,B,Number & Algebra,-3,Yes
+234,P6,A machine printed 1000 worksheets on the ﬁrst day and 800 worksheets on the second day. What was the percentage decrease in the number of worksheets printed from the ﬁrst day to the second day?,20%,25%,80%,125%,A,Number & Algebra,-3,Yes
+235,P6,Mrs Tay had 3 m of cloth to make 2 piiiow cases. She used 3/8 m of cloth for each pillow case. How much cloth did she have left?,3/8 m,3/4 m,2 1/4 m,3 1/4 m,C,Measurement & Geometry,-3,Yes
+236,P6,Find the value of 24 + 36 ÷ (6 + 3 x 2).,27,-,-,-,A,Number & Algebra,-0.33,No
+237,P6,Find the value of 11/12 ÷ 1/3. Express your answer as a mixed number.,2 3/4,-,-,-,A,Number & Algebra,-0.33,No
+238,P6,Find the missing number in ? ÷ 5 = 10.,50,-,-,-,A,Number & Algebra,-0.33,No
+239,P6,Find the value of (11 ÷ 4a)/7 when a = 6.,5,-,-,-,A,Number & Algebra,-0.33,No
+240,P6,"In a school, 55% of the pupils were boys. There were 1600 pupils in the school. How many boys were there?",880,-,-,-,A,Number & Algebra,-0.33,No
+241,P6,Aishah spent 20% of her monthly salary on a tablet which cost $400. How much was her monthly salary?,2000,-,-,-,A,Number & Algebra,-0.33,No
+242,P6,Alex is 1.53 m. Alex is 0.26 m shorter than Brandon. Find the height of Brandon.,1.79,-,-,-,A,Measurement & Geometry,-0.33,No
+243,P6,"Rajesh took 1/10 hour to walk 1 complete round of a running track. At this rate, how long will he take to walk 6 complete rounds of the running track?",3/5,-,-,-,A,Number & Algebra,-0.33,No
+244,P6,"Mr Lau bought 9 large pizzas for all his pupils in Primary 6B to share equaliy at a party. Three pupils did not turn up for the party. As a result, each remaining pupil received 3/8 of a pizza. How many pupils did he have in Primary 6B in total?",27,-,-,-,A,Number & Algebra,-0.33,No
+245,P6,Clarice is n years old now. Mrs Tan is 3 times her age now. Find the total sum of their age in 4 years’ time. Express your answer in terms of n.,4n + 8,-,-,-,A,Number & Algebra,-0.33,No
+246,P6,Faizal spent $h on a magazine and $12 more on a book than the magazine. He also boughtapen at $5. He spehtatotal of $25. How much did the magazine cost?,4,-,-,-,A,Number & Algebra,-0.33,No
+247,P6,Sue had 6 packets of chocolate bars. Each packet contained 12 chocolate bars. She repacked all the chocolate bars into bags of 4 or 5 bars. She had 8 bags containing 5 chocolate bars each. How many bags of 4 chocolate bars did she pack?,8,-,-,-,A,Number & Algebra,-0.33,No
+248,P6,"Mr Kim had forgotten his 3-digit passcode for logging into his laptop. However, he remembered that the passcode contained three out of these four digits, 2, 4, 7 and 8. None of the digits was repeated. He tried 247 and 274 but both passcodes were incorrect. At most, how many more passcodes Coutd he make?",22,-,-,-,A,Number & Algebra,-0.33,No
+249,P6,Two numbers add up to 1.52. Both of the numbers are smaller than 1. One of them has 1 decimal place and the other has 2 decimal places. What is the largest possible difference between the two numbers?,0.32,-,-,-,A,Number & Algebra,-0.33,No
+250,P6,"A shop sells pens in three different colours. The table shows the number of pens sold in May for blue and red but not green. (a) In May, 50% of the pens sold were green. How many pens were sold altogether in May? (b) In June, the number of pens sold that were red remained the same but there was an increase in the number of pens sold for the other two colours. Did the percentage of pens sold that were red increase, decrease or remain the same from May to June?",240,Decrease,-,-,A&B,Number & Algebra,-0.33,No
+251,P6,Arfan had 7/8 kg of rice at ﬁrst. He then bought another 1 1/2 kg of rice and used 1/5 kg of rice to cook porridge. How many kiiograms of rice did he have left? Express your answer as a mixed number.,2 7/40,-,-,-,A,Measurement & Geometry,-0.33,No
+252,P6,A rectangle measures 14 m by 8 4/7 m. Find the area of the rectangle.,120,-,-,-,A,Measurement & Geometry,-0.33,No
+253,P6,Oiivia bought a handbag and was given a discount of 15%. The price of the handbag was $130 before discount. How much was the discount for the handbag?,19.5,-,-,-,A,Number & Algebra,-0.33,No
+254,P6,"It takes Mr Lee 4 days to build 8 identical toy aeroplanes. At this rate, how many days will it take Mr Lee to build 12 such toy aeroplanes?",6,-,-,-,A,Number & Algebra,-0.33,No
+255,P6,"A ﬂorist had some flowers. 25% of the flowers were carnations, 45% of the flowers were roses, 16% of the flowers were lilies and the rest were tulips. She had 280 tulips. How many flowers did she have altogether?",2000,-,-,-,A,Number & Algebra,3,No
+256,P6,Evan had some money. He spent 1/3 of his money on a bag and a pair of shoes. The pair of shoes cost twice as much as the bag. He had $360 left after spending on the two items. How much did the pair of shoes cost?,120,-,-,-,A,Number & Algebra,3,No
+257,P6,Ravi had 8 identical pieces of wood each measuring 3/5 m long and 1/8 m wide. He then glued all the pieces of wood together to form the figure below without any overlaps. Find the perimeter of the ﬁgure.,4 3/5,-,-,-,A,Measurement & Geometry,3,No
+258,P6,"A set of numbers is written on a board. If the number 34 is added to the set of numbers, the average will increase by 1. If the number 58 is added to the original set of numbers, the average will increase by 4. How many numbers are written on the board?",7,-,-,-,A,Number & Algebra,3,No
+259,P6,Alex and Billy had d stamps each at ﬁrst. Alex lost 48 stamps. Billy received 130 stamps from his mother. They had 934 stamps altogether in the end. (a) How many stamps did Alex have in the end? Express your answer in terms of d. (b) How many stamps did each of them have at first?,d - 48,426,-,-,A&B,Number & Algebra,3,No
+260,P6,Leroy had a sum of money at ﬁrst. He spent 60% of his money on a set of storybooks and 25% of the remaining money on a box of crayons. He had $63 left. (a) What fraction of his money did he spend on the box of crayons? (b) How much did he spend on the box of crayons?,1/10,21,-,-,A&B,Number & Algebra,3,No
+261,P6,"Yumi had 90 more stickers than Martin at ﬁrst. Yumi gave away 90% of her stickers to her sister and Martin gave away 60% of his stickers to his brother. In the end, Martin had twice as many stickers as Yumi. How many stickers did Yumi have at ﬁrst?",180,-,-,-,A,Number & Algebra,3,No
+262,P6,"A glass tank measuring 45 cm long and 30 cm wide contained some water which couid ﬁll up 5 identical pails completely. After some water was poured out to ﬁll up 2 of the pails compietely, the height of the water ieft in the glass tank dropped to 14 cm. How much water was there in the glass tank at ﬁrst?",31500,-,-,-,A,Measurement & Geometry,3,No
+263,P6,There were 854 973 visitors to the Universal Studio last year. Express this number to the nearest thousand.,854 000,850 000,855 000,860 000,C,Number & Algebra,-3,Yes
+264,P6,Find the value of 3/4 ÷ 6/7.,9/14,7/8,1 1/7,1 5/9,B,Number & Algebra,-3,Yes
+265,P6,Express 1.7 as a percentage.,0.02%,0.17%,17%,170%,D,Number & Algebra,-3,Yes
+266,P6,Which of the following is most likely to be the mess of a can of coke?,350 g,350 kg,35 g,35 kg,A,Measurement & Geometry,-3,Yes
+267,P6,Find the value of (8 + p)/2 ÷ p when p = 4.,6,8,10,20,C,Number & Algebra,-3,Yes
+268,P6,Alan has a weekly allowance of $y. He saves $5 and spends the rest of his allowance in 6 days. What is the average amount of money he spends a day? Leave your answer in terms of y.,$ (5-y)/6,$ (y-5)/6,$ (y+ 5)/6,$ (y-6)/5,B,Number & Algebra,-3,Yes
+269,P6,The price of a concert ticket was $120. There was an early bird discount of 25% and students were given a further discount of $12. How much did one early bird discount student’s ticket cost?,$78,$81,$90,$108,A,Number & Algebra,-3,Yes
+270,P6,There were some boys and girls in the school hall. An equal number of boys and girls wear spectacles. 1/2 of the girls and 4/7 of the boys do not wear spectactes. What fraction of the children wears spectacies?,7/15,8/15,6/13,7/13,C,Number & Algebra,-3,Yes
+271,P6,Leticia had two square boxes of different sizes. Each side of the bigger box is 2 times as long as each side of the smaller box. Leticia can pack exactly 64 1-cm cubes into the smaller box. How many 1-cm cubes can she pack exactly into the bigger box?,128,192,256,512,D,Number & Algebra,-3,Yes
+272,P6,Fihd 3/5 ÷ 15. Leave your answer in the simplest form.,1/25,-,-,-,A,Number & Algebra,-0.33,No
+273,P6,"Find the average of 14, 25 and 36.",25,-,-,-,A,Number & Algebra,-0.33,No
+274,P6,Express 3/8 as a decimal.,0.375,-,-,-,A,Number & Algebra,-0.33,No
+275,P6,The average of a set of three different 2-digit numbers is 32. Find the largest possible number in the set.,75,-,-,-,A,Number & Algebra,-0.33,No
+276,P6,"Pansy baked some cookies. If she gives each of her friends 6 cookies she will have no remainder. If she gives each of them 4 cookies instead, she will have 24 cookies left. How many cookies did Pansy bake?",72,-,-,-,A,Number & Algebra,-0.33,No
+277,P6,It takes 90 minutes to ﬁll a container oompteteiy with water. What fraction of the container will be ﬁlled with water in 1 hour? Give your answer in the simplest form.,2/3,-,-,-,A,Measurement & Geometry,-0.33,No
+278,P6,A box contains beads of three different colours. 2/5 of them are blue. The ratio of the number of green beads to that of the red heads is 4 : 3. What is the ratio of the number of blue beads to the number of red beads?,14 : 9,-,-,-,A,Number & Algebra,-0.33,No
+279,P6,"Ali had 3 times as much money as Nathan at first. After Ali Spent $30 and Nathan received $48 from his mother, both boys had the same amount of money. How much money did Nathan have in the end?",87,-,-,-,A,Number & Algebra,-0.33,No
+280,P6,The ratio of the length to the breadth of a rectangle is 8 : 3. What fraction of the perimeter of the rectangte is the length of the rectangle? Give your answer in the simplest form.,4/11,-,-,-,A,Measurement & Geometry,-0.33,No
+281,P6,"The Primary 6 teachets and pupils from Everest Primary School went on a learning joumey. For every 38 pupils, there were 2 teachers with them. There were 216 more pupils than teachers. How many pupils went on the learning journey?",228,-,-,-,A,Number & Algebra,-0.33,No
+282,P6,There were 32 cars and 3y motorcycles in a carpark. (a) How many wheels are there altogether? Give your answor in terms of y. (b) If y = 8. how many tweets are there altogether?,128 + 6y,176,-,-,A&B,Number & Algebra,-0.33,No
+283,P6,The average temperamre in January 2018 was 28°C. The average temperature in February 2018 was 32°C. Fmd the percentage increase in the average temperature of the two months. Give your answer to the nearest two decimal places.,14.29,-,-,-,A,Number & Algebra,-0.33,No
+284,P6,"Four friends shared the cost of a birthday gilt equally. When calculating the amount for each share, one of the friends made a mistake by dividing the cost of the gilt by 3 instead of 4. Each friend ended up paying $2.80 more than the correct share. What should be the correct amount of each share?",8.4,-,-,-,A,Number & Algebra,-0.33,No
+285,P6,"At a fruit stall, 1 watermelon and 5 apples cost $10. Elsa paid $14.90 for 1 watermelon and 12 apples. How much did one apple cost?",0.7,-,-,-,A,Number & Algebra,-0.33,No
+286,P6,"Leslie spent $750 of his monthly salary on food. He spent 3/7 of his remaining salary on transport. After that, he had 1/3 of his salary left. How much of his salary did he spend on transport?",450,-,-,-,A,Number & Algebra,3,No
+287,P6,Mrs Leong needs to tie 160 parcels with string. Each parcel requires 40 cm of string. The string is sold in-rolls of 15 m each. What is the least number of rolls of string that Mrs Leong needs to buy to tie 160 parcels?,5,-,-,-,A,Measurement & Geometry,3,No
+288,P6,"A container was ﬁlled with 7/8 ℓ of water at ﬁrst. 1/12 ℓ of the water was used and the remaining water was poured inio bottles, each with a capacity of 1/6 ℓ. (a) How many such bottles were ﬁlled at most? (b) How much water was left? Give your answer as a fraction in its simplest form.",4,1/8,-,-,A&B,Measurement & Geometry,3,No
+289,P6,"Mr Bond earns a commission of $2 500 for every car he sold. For every 10 cars sold, he received an additional bonus of $3 000. In the ﬁst 6 months of 2018, he earned a total of $127 000. How many cars did Mr Bond sell in the ﬁrst 6 months of 2018?",46,-,-,-,A,Number & Algebra,3,No
+290,P6,"Weiling took part in a Mathematics quiz which consist of 60 questions. For every correct answer, 3 marks would be awarded. For every wrong answer, 2 marks would be deducted. Weiling answered all the quesﬁons and scored a total of 140 marks for the quiz. How many questions did she answar conectly?",52,-,-,-,A,Number & Algebra,3,No
+291,P6,"Siti had $285 more than Bala at ﬁrst. After Siti spent 1/3 of her money and Bala spent 3/4 of his money, the amount of money that Siti had left was $330 more than the amount that Bale had left. How much money did Bala have at ﬁrst?",336,-,-,-,A,Number & Algebra,3,No
+292,P6,"The usual price of a coffee machine sold in store A was $144. This was 96% of the usual price of an identical coffee machine sold in Store B. Both stores gave the same percentage discount on a coffee machine during a sale. During the sale, the coffee madﬁne in Store
+ B cost $112.50 aﬁer the discount. (a) What was the usual price of the coffee machine in Store B? (b) What was the discount given for the coffee machine in Store A during the sale?",150,25,-,-,A&B,Number & Algebra,3,No
+293,P6,"Sally and Bernice were baking cookies for sale. 1/3 of Sally’s cookies was 16 more than 1/4 of Bernice’s cookies. The next day, Sally baked more cookies and her total number of cookies increased by 1/3. Bernice's family ate 1/2 of the cookies that Bernice baked. In the end, Sally had 82 more cookies than Bernice. How many cookies did both girls have altogether in the end?",118,-,-,-,A,Number & Algebra,3,No
+294,P6,Their sarcastic remarks made him _____ never to join them again.,decide,decides,decided,decision,A,,-3,Yes
+295,P6,"Alfred _____ left early, then he would not have missed the plane.",will have,must have,could have,should have,D,,-3,Yes
+296,P6,My overworked sister said that she has _____ time for exercise these days.,any,few,little,much,C,,-3,Yes
+297,P6,No sooner had she _____ than the doorbell rang.,speak,spoke,speaks,spoken,D,,-3,Yes
+298,P6,Neither Anne nor her colleagues _____ the tasks assigned to them by their supervisor.,complete,completes,has completed,have completed,D,,-3,Yes
+299,P6,Jerome apologised to the man _____ letter was accidentally opened by him.,who,which,whom,whose,D,,-3,Yes
+300,P6,"""_____ everybody got a seat?"" the teacher asked the pupils.",Do,Has,Have,Does,B,,-3,Yes
+301,P6,"Alden likes to play badminton _____ his brother, Ashton, does not.",so,until,despite,whereas,D,,-3,Yes
+302,P6,"""You will donate to the Children‘s Cancer Foundation, _____ you?",can't,won't,don't,didn't,B,,-3,Yes
+303,P6,The security guard caught him in the act of _____ the toy robot from the display shelf.,stole,steal,stolen,stealing,D,,-3,Yes
+304,P6,The two boys shook hands when their quarrel was _____ by their principal.,cleared,resolved,instigated,obstructed,B,,-0.33,Yes
+305,P6,The two athletes crossed the ﬁnish line _____ and were declared joint winners.,momentarily,immediately,simultaneously,instantaneously,C,,-0.33,Yes
+306,P6,"""You must accept the fact that you can't always have what you want in life. Just be _____ with what you‘ve got,"" Mrs. Teo advised us.",content,conform,compliant,complacent,A,,-0.33,Yes
+307,P6,"Before winter arrives, the birds will _____ to another country to avoid the cold weather.",reside,migrate,emigrate,immigrate,B,,-0.33,Yes
+308,P6,The defeated team _____ home after losing the most important game of the season.,strutted,trudged,pranced,marched,B,,-0.33,Yes
+309,P6,"John in addition to the two monitors, _____ the books from the staff room to the classroom every morning.",carry,carries,carrying,have carried,B,,-3,Yes
+310,P6,"When the resuits of the competition were announced, neither the winner nor his parents _____ at the hall.",is,are,was,were,D,,-3,Yes
+311,P6,The handicraft did not turn out well as the girl did not put in _____ effort to glue the parts together.,many,much,little,few,B,,-3,Yes
+312,P6,My grandmother managed to prepare a nutritions meat for us _____ having only a few in the refrigerator.,despite,besides,because of,resulting from,A,,-3,Yes
+313,P6,"With trepidation. Sarah watched the running boy _____ the pail, spilling water all over the floor.",knock,knocks,knocked,was knocking,A,,-3,Yes
+314,P6,"""You've put the carton of milk in the refrigerator, _____?"" Mrs Lim asked her daughter.",isn't it,didn't we,hadn't you,haven't you,D,,-3,Yes
+315,P6,"""l have never _____ such an interesting flower before,"" exclaimed the old lady as she looked closely at it.",see,saw,seen,been seeing,C,,-3,Yes
+316,P6,"If she _____ more Water throughout the day, she would not have been dehydrated.",drunk,drinks,has drunk,had drunk,D,,-3,Yes
+317,P6,All of the luggage _____ to the coilection point except the one that belonged to the elderly bespectacled man.,is delivering,was delivered,has been delivering,have been delivered,B,,-3,Yes
+318,P6,"In order to be healthier, Mrs Chandra eiiminated salty tood and sugary drinks _____ her diet.",off,out,from,away,C,,-3,Yes
+319,P6,The teacher praised Tom for being a _____ pupil as he always checks his work carefully and submits his assignments on time.,conscious,respectful,productive,conscientious,D,,-0.33,Yes
+320,P6,The gangsters _____ the homeless man by raining repeated blows on his head.,assailed,criticised,surrounded,approached,A,,-0.33,Yes
+321,P6,The teacher encouraged her pupils to read _____ by sharing with them books on a wide variety of topics.,extensively,bountifully,studiously,plentifully,A,,-0.33,Yes
+322,P6,The shop assistants were relieved when the angry customer ____ after they apologised for their mistake.,backed up,backed into,backed away,backed down,D,,-0.33,Yes
+323,P6,"Although the doctors were of the opinion that the patient had a good chance of recovery, his condition _____ rapidly after the operation.",decomposed,deteriorated,destructed,degraded,B,,-0.33,Yes
+324,P6,"He'd like some drinks, _____ he?",don't,won't,wouldn't,shouldn't,C,,-3,Yes
+325,P6,"""Who has memorised the song we _____ yesterday? the music teacher asked.",learn,learnt,learning,have learnt,B,,-3,Yes
+326,P6,Edith bought her mother a birthday gift _____ the money she earned as a part-time waitress.,by,for,with,from,C,,-3,Yes
+327,P6,John _____ to the toiiet since the second pericd and is still not in class.,go,will go,has gone,had gone,C,,-3,Yes
+328,P6,Has anyone _____ my pencil case? It is beige with a picture of a cat on it.,see,sees,seen,seeing,C,,-3,Yes
+329,P6,"_____ his family problems, Ahmad persevered and achieved outstanding results.",Despite,Because,Although,Therefore,A,,-3,Yes
+330,P6,"If he had known that you were baking cakes, he would _____ you.",help,helped,be helping,have helped,D,,-3,Yes
+331,P6,The jewellery in the safe _____ to my grandmother.,belong,belongs,is belonging,are belonging,B,,-3,Yes
+332,P6,Get permission from your parents _____ you wish to sign up for the course.,will,shall,would,should,D,,-3,Yes
+333,P6,The man _____ was talking to my mother behaved quite suspiciously.,who,which,whom,whose,A,,-3,Yes
+334,P6,"Ever since Jonas found out that i had complained about him, he became very _____ towards me.",stiff,rigid,hostile,passive,C,,-0.33,Yes
+335,P6,The robbers _____ with the jewellery they stole from the shop.,made up,made off,made out,made over,B,,-0.33,Yes
+336,P6,The children enjoyed their farm stay so much that they pleaded with their parents to _____ it by another three days.,alter,revise,extend,postpone,C,,-0.33,Yes
+337,P6,The company is looking for someone with _____ experience to ﬁll the position of manager.,reliable,relevant,consistent,compatible,B,,-0.33,Yes
+338,P6,The district judge _____ Tom’s driving license for two years because of his reckless driving.,forbade,restricted,cancelled,suspended,D,,-0.33,Yes
+339,P6,"My grandfather gazed at the old photograph fondly, for it ____ vivid memories of his childhood days.",evoked,emitted,ejected,exported,A,,-0.33,Yes
+340,P6,The bully was punished severely as his behaviour should not be _____.,certified,endorsed,sustained,condoned,D,,-0.33,Yes
+341,P6,"In olden times, a person who stood by what he said was considered _____ honourable person.",a,an,the,that,B,,-3,Yes
+342,P6,"Siti hardly eats during recess, _____ she?",do,does,don't,doesn't,B,,-3,Yes
+343,P6,"Yesterday, I saw Mr Lim _____ his son to school.",drive,drove,drives,driven,A,,-3,Yes
+344,P6,"Tired after a long day, I had _____ on my bed for a while before getting up to prepare dinner.",lie,lay,laid,lain,D,,-3,Yes
+345,P6,"""All thirteen people involved in the accident have been taken to the hospital, two of _____ are in critical condition,"" the reporter read the news.",who,which,whom,whose,C,,-3,Yes
+346,P6,"_____ for my mother, all my family members are vegetarians.",Apart,Other,Except,Besides,C,,-3,Yes
+347,P6,"If John had left his house on time, he _____ the meeting.",will not miss,would not miss,will not have missed,would not have missed,D,,-3,Yes
+348,P6,Steven _____ the string tightly around the stack of books before tying a dead knot.,wind,winds,wound,winding,B,,-3,Yes
+349,P6,"_____ hard Jeremy tried, he could not force open the latch.",As,Since,Despite,However,D,,-3,Yes
+350,P6,No sooner had I put down the phone _____ it rang again.,and,that,than,when,C,,-3,Yes
+351,P6,The project _____ due to a lack of ﬁnancial support.,fell on,fell off,fell apart,fell through,D,,-0.33,Yes
+352,P6,The experienced surgeon operated on the tumour with _____ hands.,stiff,sturdy,stained,staunch,B,,-0.33,Yes
+353,P6,"Despite failing to secure a job for many months, Dan remained _____ about his chances of securing one soon.",hopeful,ignorant,adamant,contented,A,,-0.33,Yes
+354,P6,The fisherman trembled in fear as he saw the _____ of sharks circling his boat.,herd,gang,clutch,school,D,,-0.33,Yes
+355,P6,"After months of arguing, the siblings ﬁnally _____ and decided to make peace with each other.",bit the bullet,buried the hatchet,put their foot down,gave a cold shoulder,B,,-0.33,Yes
+356,P6,"In a scrap yard, electromagnets are used to separate objects. Which of the following explains why they are used?",Electromagnets have only one pole.,Electromagnets can repel non-magnetic objects.,Electromagnets are able to attract magnetic objects.,Electromagnets are strong and made of strong metal.,C,,-3,Yes
+357,P6,Which one of the following Is not a fossil fuel?,coal,charcoal,petroleum,natural gas,B,,-3,Yes
